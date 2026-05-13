@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Assets/Logo.png" alt="C++ Python Interpreter Logo" width="220"/>
+</p>
+
 Here’s a clean, professional `README.md` you can drop straight into your repo:
 
 ---
